@@ -16,7 +16,7 @@ $$E(V) = E_0 + \frac{9B_0V_0}{16} \left[ \left[ \left( \frac{V_0}{V} \right)^{2/
 
 where $E_0$ is the internal energy at the reference volume $V_0$ and $B_0$ and $B_0'$ are the bulk modulus and its pressure derivative at $V_0$, respectively. The equilibrium volume $V_0$ is found by minimizing the energy with respect to $V$. 
 
-In this problem, we will use the Birch–Murnaghan equation of state to calculate the equilibrium volume of a crystal. The input file, eos.csv, contains Volume (A^3/atom) and Energy (eV/atom) data for a crystal at various volumes. To simplify the problem, we will use the following equation for the EOS fitting: 
+In this problem, we will use the Birch–Murnaghan equation of state to calculate the equilibrium volume of a crystal. The input file, ***eos.csv***, contains Volume (A^3/atom) and Energy (eV/atom) data for a crystal at various volumes. To simplify the problem, we will use the following equation for the EOS fitting: 
 
 $$E(V) = a + bV^{-2/3} + cV^{-4/3} + dV^{-6/3}$$ 
 
