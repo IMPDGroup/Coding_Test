@@ -20,7 +20,7 @@ In this problem, we will use the Birch–Murnaghan equation of state to calculat
 
 $$E(V) = a + bV^{-2/3} + cV^{-4/3} + dV^{-6/3}$$ 
 
-where $a$, $b$, $c$, and $d$ are fitting parameters. Please write a program to read the data from eos.csv and fit the data to the above equation. The program should print the fitting parameters and the equilibrium volume. Please use the following Python libraries: numpy, pandas, and scipy.optimize.
+where $a$, $b$, $c$, and $d$ are fitting parameters. Please write a program to read the data from ***eos.csv*** and fit the data to the above equation. The program should print the fitting parameters and the equilibrium volume. Please use the following Python libraries: numpy, pandas, and scipy.optimize.
 
 ## Task 2 - Visualizing Your Results
 
