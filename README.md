@@ -11,7 +11,7 @@ $$E(V) = \int P(V) dV$$
 
 The Birch–Murnaghan equation of state is then given by:
 
-$$E(V) = E_0 + \frac{9B_0V_0}{16} \left\{ \left[ \left( \frac{V_0}{V} \right)^{2/3} - 1 \right]^3 B_0' + \left[ \left( \frac{V_0}{V} \right)^{2/3} - 1 \right]^2 \left[ 6 - 4 \left( \frac{V_0}{V} \right)^{2/3} \right] \right\}$$ 
+$$E(V) = E_0 + \frac{9B_0V_0}{16} \left[ \left[ \left( \frac{V_0}{V} \right)^{2/3} - 1 \right]^3 B_0' + \left[ \left( \frac{V_0}{V} \right)^{2/3} - 1 \right]^2 \left[ 6 - 4 \left( \frac{V_0}{V} \right)^{2/3} \right] \right]$$ 
 
 where $E_0$ is the internal energy at the reference volume $V_0$ and $B_0$ and $B_0'$ are the bulk modulus and its pressure derivative at $V_0$, respectively. The equilibrium volume $V_0$ is found by minimizing the energy with respect to $V$. 
 
