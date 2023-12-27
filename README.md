@@ -1,7 +1,8 @@
 # Coding_Test
 
 ## Task 1 - Equation of State (EOS) Fitting
-(Wiki) The Birch–Murnaghan isothermal equation of state, published in 1947 by Albert Francis Birch of Harvard, is a relationship between the volume of a body and the pressure to which it is subjected. The third-order Birch–Murnaghan isothermal equation of state is given by the following equation: 
+
+[(Wiki)](https://en.wikipedia.org/wiki/Birch–Murnaghan_equation_of_state) The Birch–Murnaghan isothermal equation of state, published in 1947 by Albert Francis Birch of Harvard, is a relationship between the volume of a body and the pressure to which it is subjected. The third-order Birch–Murnaghan isothermal equation of state is given by the following equation: 
 
 $$P(V) = \frac{3B_0}{2} \left[ \left( \frac{V_0}{V} \right)^{7/3} - \left( \frac{V_0}{V} \right)^{5/3} \right] \left[ 1 + \frac{3}{4} \left( B_0' - 4 \right) \left( \left( \frac{V_0}{V} \right)^{2/3} - 1 \right) \right]$$ 
 
